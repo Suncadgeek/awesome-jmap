@@ -76,6 +76,7 @@ This list focuses on software with native JMAP support, JMAP-focused developer l
 - [Parula](https://parula.beonex.com/) - Cross-platform email app with chat, conferencing, and calendar support.
 - [Plume](https://plume.kler.dev/) - Native iOS and macOS email client with a privacy focus.
 - [ratatoskr](https://github.com/folknor/ratatoskr) - Rust desktop email client with JMAP, IMAP, Gmail, and Exchange/Graph support.
+- [Sterna Mail](https://codeberg.org/emon/sterna-mail) - Native Android email client for JMAP and IMAP/SMTP; FOSS, no Google services, push without FCM.
 - [Twake Mail Client](https://github.com/linagora/tmail-flutter) - Flutter-based JMAP client for Android, iOS, and the web.
 - [Kolumba](https://github.com/satriadhikara/kolumba) - Webmail client purpose-built for Stalwart Mail Server with native JMAP.
 - [Leithmail](https://github.com/leithmail/leithmail) - Cross-platform JMAP email client for web, Android, and iOS built with Dart/Flutter.
